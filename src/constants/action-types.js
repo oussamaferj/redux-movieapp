@@ -1,0 +1,4 @@
+export const ADD_MOVIE= "ADD_MOVIE";
+export const TOGGLE_POPUP= "TOGGLE_POPUP";
+export const SEARCH_MOVIE= "SEARCH_MOVIE";
+export const SEARCH_MOVIETEXT = "SEARCH_MOVIETEXT";
